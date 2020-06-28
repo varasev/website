@@ -14,13 +14,9 @@ To see current validators along with their Notary information, visit [https://va
 
 ## For Validators: Update Metadata
 
-{% hint style="warning" %}
-Instructions are in process
-{% endhint %}
-
 1\) In MetaMask connect to the RPC endpoint of the required network:
 
-* Mainnet `Core`: [https://core.poa.network](https://core.poa.network)
+* Mainnet `Core`: [https://core.poanetwork.dev](https://core.poanetwork.dev)
 * Testnet `Sokol`: [https://sokol.poa.network](https://sokol.poa.network)
 
 2\) Select your **Voting Key** in MetaMask.
