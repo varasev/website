@@ -1,8 +1,12 @@
 ---
-description: POA Network serves as the base layer for local currency generation & exchange
+description: POA Network served as the base layer for local currency generation & exchange
 ---
 
 # Community-Based Currencies
+
+{% hint style="info" %}
+Grassroots Economics started their project on the POA Network. They now operate on [xDai](https://www.xdaichain.com).
+{% endhint %}
 
 ### Community Currency Use Case: [Grassroots Economics](https://www.grassrootseconomics.org/) in Kenya
 
@@ -13,6 +17,12 @@ Moving from paper vouchers to blockchain currencies provides the ability for nei
 > While a CIC could exist on any smart-contract-enabled blockchain, many blockchains charge high fees for executing transactions to the network. In order to trade effectively in marginalized communities, transaction fees must be minimized, which is why we are using the POA.Network blockchain, an Ethereum-based platform that offers an affordable open-source framework for smart contracts. POA leverages an independent group of block validators who maintain the transaction records and who are all licensed public notaries around the United States, which increases security while enabling a method of governance on the blockchain \(Barinov et al., 2017\). POA Network is a scalable, secure and cost effective solution for enabling CICs for micro, small and medium businesses.
 >
 > From: [https://github.com/GrassrootsEconomics/CIC-WhitePaper](https://github.com/GrassrootsEconomics/CIC-WhitePaper)
+
+### Cash distribution in times of crisis
+
+CICs can be used for targeted aid when markets or supply chains deteriorate in the midst of a crisis. Specific health or food related business may be targeted using blockchain transaction data in order to provide rapid aid to those who need it most. 
+
+{% embed url="https://www.grassrootseconomics.org/single-post/CIC-COVID-19-Crisis-Cash-Aid" %}
 
 ## Media
 
